@@ -1,0 +1,15 @@
+# Node modules for the frontend
+node_modules/
+
+# Build files for the frontend
+dist/
+
+# Python virtual environment for the backend
+venv/
+
+# System files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
